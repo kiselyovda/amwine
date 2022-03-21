@@ -20,6 +20,7 @@ class CatalogSpider(scrapy.Spider):
                     'AMWINE__REGION_ELEMENT_XML_ID': '61',
                     'AMWINE__REGION_ELEMENT_ID': '182688',
                     'AMWINE__CITY_SALE_LOCATION_ID': '1249',
+<<<<<<< HEAD
                     'AMWINE__CITY_NAME': '%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83	'
                     },
         for url in self.start_urls:
@@ -28,6 +29,10 @@ class CatalogSpider(scrapy.Spider):
                 url,
                 cookies=cookies,
                 headers=headers,
+=======
+                    'AMWINE__CITY_NAME': '%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83	',
+                    },
+>>>>>>> 6a2f8aa9dcf52ce4fedec2de93c82aff2a9e8987
                 callback=self.parse_product
                 )
 
