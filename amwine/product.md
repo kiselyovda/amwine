@@ -15,8 +15,8 @@ section = `[item.strip() for item in response.css('a.breadcrumbs__link::text').e
 
 price_data:
 
-    current = response.css('div.catalog-element-info__price span::text').extract()[0]
-    original = response.css('div.catalog-element-info__price span::text').extract()[2]
+    current = float(response.css('div.catalog-element-info__price.catalog-element-info__price_detail span::text').extract()[-4].replace(' ', '')) 
+    original = float(response.css('div.catalog-element-info__price.catalog-element-info__price_detail span::text').extract()[-2].replace(' ', ''))
     sales_tag = f"Скидка {round((1 - response.css('div.catalog-element-info__price span::text').extract()[2] / response.css('div.catalog-element-info__price span::text').extract()[0]) * 100), 2)}%"
 
 metadata:
