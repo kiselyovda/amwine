@@ -1,0 +1,504 @@
+{
+    "products": [
+        {
+            "id": "433381",
+            "sort": "5",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Whiskey Balblair 18 Year Old",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/022\/022100178fe379182de9988b23c6218a.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/whiskey_balblair_18_year_old\/",
+            "props": {
+                "article": 46111471,
+                "russian_name": "\u0412\u0438\u0441\u043a\u0438 \u0411\u0430\u043b\u0431\u043b\u044d\u0440 18 \u043b\u0435\u0442",
+                "old_price_61": 18999,
+                "middle_price_61": 18999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 46,
+                "value": 0.7,
+                "extraction": 18,
+                "gift_wrap": 959,
+                "region": 183468
+            },
+            "sale": false,
+            "price": "18999.99"
+        },
+        {
+            "id": "91114",
+            "sort": "5",
+            "name": "\u0412\u0438\u0441\u043a\u0438 An Cnoc 12",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/8b2\/8b246f75c771d490b4432c606125c1d0.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/ancnoc-12-yo\/",
+            "props": {
+                "article": 46110381,
+                "russian_name": "\u0410\u043d \u041d\u043e\u043a 12",
+                "old_price_61": 4749,
+                "middle_price_61": 4749.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 12,
+                "region": 183468,
+                "brand": 187579,
+                "whisky_type": {
+                    "136": "\u041e\u0434\u043d\u043e\u0441\u043e\u043b\u043e\u0434\u043e\u0432\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "4749.99"
+        },
+        {
+            "id": "91126",
+            "sort": "6",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Kinsey Blended Scotch Whisky",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/c11\/c11ee587f0d0cf5de68e2a8d440f0eca.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/kinsey-blended-scotch-whisky\/",
+            "props": {
+                "article": 46111101,
+                "best_price": "y",
+                "russian_name": "\u041a\u0438\u043d\u0441\u0438",
+                "old_price_61": 999,
+                "middle_price_61": 999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 3,
+                "gift_wrap": 953,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "999.99"
+        },
+        {
+            "id": "438671",
+            "sort": "9",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Loch Lomond Single Malt",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/d62\/d6262d002b06a3192fe7e87a3d099c75.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/loch_lomond_single_malt\/",
+            "props": {
+                "article": 462590026,
+                "russian_name": "\u041b\u043e\u0445 \u041b\u043e\u043c\u043e\u043d\u0434 \u041a\u043b\u0430\u0441\u0441\u0438\u043a \u0421\u0438\u043d\u0433\u043b \u041c\u043e\u043b\u0442",
+                "old_price_61": 1999,
+                "middle_price_61": 1999.99,
+                "country": "velikobritaniya",
+                "producer": 182024,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 3,
+                "gift_wrap": 959
+            },
+            "sale": false,
+            "price": "1999.99"
+        },
+        {
+            "id": "433377",
+            "sort": "13",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Balblair 12 Year Old",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/302\/30280a3ee42032a1ce333fd4bb2a1b03.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/balblair_12_year_old\/",
+            "props": {
+                "article": 46111451,
+                "best_price": "y",
+                "russian_name": "\u0411\u0430\u043b\u0431\u043b\u044d\u0440 12 \u043b\u0435\u0442",
+                "old_price_61": 5999,
+                "middle_price_61": 5999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 46,
+                "value": 0.7,
+                "gift_wrap": 959,
+                "region": 183468
+            },
+            "sale": false,
+            "price": "5999.99"
+        },
+        {
+            "id": "409079",
+            "sort": "19",
+            "name": "\u0412\u0438\u0441\u043a\u0438 The Macallan Triple Cask Matured 12 Years Old",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/a0f\/a0fb47e5dd374c9bb6a044e0f5658122.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/the_macallan_triple_cask_matured_12_years_old\/",
+            "props": {
+                "article": 46240391,
+                "best_price": "y",
+                "russian_name": "\u041c\u0430\u043a\u0430\u043b\u043b\u0430\u043d 12 T\u0440\u0438\u043f\u043b \u041a\u0430\u0441\u043a 0.7",
+                "old_price_61": 5999,
+                "middle_price_61": 5999.99,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 181690,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 12,
+                "gift_wrap": 959,
+                "region": 183468,
+                "brand": 187975,
+                "whisky_type": {
+                    "136": "\u041e\u0434\u043d\u043e\u0441\u043e\u043b\u043e\u0434\u043e\u0432\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "5999.99"
+        },
+        {
+            "id": "91101",
+            "sort": "29",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Ballantine`s Finest",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/7a2\/7a2fff132d31f9c6979155d7cbf07098.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/ballantine-s-finest\/",
+            "props": {
+                "article": 46020041,
+                "russian_name": "\u0411\u0430\u043b\u043b\u0430\u043d\u0442\u0430\u0439\u043d\u0441 \u0424\u0430\u0439\u043d\u0435\u0441\u0442",
+                "old_price_61": 2299,
+                "middle_price_61": 2299.99,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 478011,
+                "alco": 40,
+                "value": 0.7,
+                "brand": 187586,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "2299.99"
+        },
+        {
+            "id": "433379",
+            "sort": "36",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Balblair 15 Year Old",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/413\/413ffb79e5211a683d68df5f763ad2a2.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/balblair_15_year_old\/",
+            "props": {
+                "article": 46111461,
+                "russian_name": "\u0412\u0438\u0441\u043a\u0438 \u0411\u0430\u043b\u0431\u043b\u044d\u0440 15 \u043b\u0435\u0442",
+                "old_price_61": 9999,
+                "middle_price_61": 9999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 46,
+                "value": 0.7,
+                "gift_wrap": 959,
+                "region": 183468
+            },
+            "sale": false,
+            "price": "9999.99"
+        },
+        {
+            "id": "91087",
+            "sort": "39",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Jameson",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/a2a\/a2a60718d191ddd7a7f47c514164cf5c.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/jameson-45970051\/",
+            "props": {
+                "article": 45970051,
+                "russian_name": "\u0414\u0436\u0435\u043c\u0435\u0441\u043e\u043d 1\u043b.",
+                "old_price_61": 3999,
+                "middle_price_61": 3999.99,
+                "country": "irlandiya",
+                "producer": 181929,
+                "alco": 40,
+                "value": 1,
+                "brand": 187892,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "3999.99"
+        },
+        {
+            "id": "440229",
+            "sort": "41",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Proper Twelve",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/d80\/d80500f26215b0036545ae9160cc4ac9.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/proper_no_twelve\/",
+            "props": {
+                "article": 45920301,
+                "russian_name": "\u041f\u0440\u043e\u043f\u0435\u0440 \u0422\u0432\u0435\u043b\u0432",
+                "old_price_61": 2989,
+                "middle_price_61": 2989.99,
+                "country": "irlandiya",
+                "producer": 445299,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 3
+            },
+            "sale": false,
+            "price": "2989.99"
+        },
+        {
+            "id": "91122",
+            "sort": "42",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Catto\u2019s",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/404\/4041728511c0fb40903f19e4e7488cb8.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/catto-s-46110581\/",
+            "props": {
+                "article": 46110581,
+                "russian_name": "\u041a\u0430\u0442\u0442\u043e'\u0441, 3 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+                "old_price_61": 1999,
+                "middle_price_61": 1999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 1,
+                "extraction": 3,
+                "brand": 188614,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "1999.99"
+        },
+        {
+            "id": "91109",
+            "sort": "46",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Chivas Regal, 12 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/d9c\/d9c1c3fd796204a08581378f6441a701.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/chivas-regal-aged-12-yo-46030151\/",
+            "props": {
+                "article": 46030151,
+                "russian_name": "\u0427\u0438\u0432\u0430\u0441 \u0420\u0438\u0433\u0430\u043b, 12 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+                "old_price_61": 4899,
+                "middle_price_61": 4899.99,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 471799,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 12,
+                "gift_wrap": 953,
+                "region": 85450,
+                "brand": 187691,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "4899.99"
+        },
+        {
+            "id": "121726",
+            "sort": "52",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Old Pulteney, 12 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/759\/7597fe1ffc574f0adfc29438b66b0186.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/old_pulteney_aged_12_years\/",
+            "props": {
+                "article": 46110071,
+                "russian_name": "\u0412\u0438\u0441\u043a\u0438 \u041e\u043b\u0434 \u041f\u0443\u043b\u0442\u0435\u043d\u0438, 12 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+                "old_price_61": 3999,
+                "middle_price_61": 3999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 12,
+                "gift_wrap": 953,
+                "region": 183468,
+                "brand": 188112,
+                "whisky_type": {
+                    "136": "\u041e\u0434\u043d\u043e\u0441\u043e\u043b\u043e\u0434\u043e\u0432\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "3999.99"
+        },
+        {
+            "id": "91091",
+            "sort": "73",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Jameson",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/20f\/20f046b79bdb5df90ca67b87fd1628ed.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/jameson-45970121\/",
+            "props": {
+                "article": 45970121,
+                "russian_name": "\u0414\u0436\u0435\u043c\u0435\u0441\u043e\u043d",
+                "old_price_61": 2199,
+                "middle_price_61": 2199.99,
+                "country": "irlandiya",
+                "producer": 181929,
+                "alco": 40,
+                "value": 0.5,
+                "brand": 187892
+            },
+            "sale": false,
+            "price": "2199.99"
+        },
+        {
+            "id": "91112",
+            "sort": "80",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Speyburn, 10 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/7a6\/7a6f405fcbc9ab3b2a10a919d8aabbee.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/speyburn-10-yo\/",
+            "props": {
+                "article": 46110111,
+                "russian_name": "\u0412\u0438\u0441\u043a\u0438 \u0421\u043f\u0435\u0439\u0431\u0435\u0440\u043d, 10 \u043b\u0435\u0442\u043d\u0435\u0439 \u0432\u044b\u0434\u0435\u0440\u0436\u043a\u0438",
+                "old_price_61": 3799,
+                "middle_price_61": 3799.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 10,
+                "gift_wrap": 953,
+                "region": 85450,
+                "brand": 188182,
+                "whisky_type": {
+                    "136": "\u041e\u0434\u043d\u043e\u0441\u043e\u043b\u043e\u0434\u043e\u0432\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "3799.99"
+        },
+        {
+            "id": "91132",
+            "sort": "82",
+            "name": "\u0412\u0438\u0441\u043a\u0438 MacArthur's",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/0f8\/0f8151c3d6cded73d1c4619a1d3da818.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/macarthur-s-46111241\/",
+            "props": {
+                "article": 46111241,
+                "best_price": "y",
+                "russian_name": "\u041c\u0430\u043a\u0410\u0440\u0442\u0443\u0440'\u0441 3 \u0433\u043e\u0434\u0430",
+                "old_price_61": 999,
+                "middle_price_61": 999.99,
+                "exclusive": 43,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 121725,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 3,
+                "region": 85450,
+                "brand": 187976,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "999.99"
+        },
+        {
+            "id": "91078",
+            "sort": "92",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Monkey Shoulder",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/69b\/69b9bdbe29f5aeab0faade1d4d496065.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/monkey-shoulder\/",
+            "props": {
+                "article": 45650521,
+                "russian_name": "\u041c\u0430\u043d\u043a\u0438 \u0428\u043e\u0443\u043b\u0434\u0435\u0440",
+                "old_price_61": 2999,
+                "middle_price_61": 2999.99,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 181972,
+                "alco": 40,
+                "value": 0.7,
+                "extraction": 3,
+                "gift_wrap": 953,
+                "region": 85450,
+                "brand": 188097,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "2999.99"
+        },
+        {
+            "id": "91102",
+            "sort": "107",
+            "name": "\u0412\u0438\u0441\u043a\u0438 Ballantine`s Finest",
+            "section": "28",
+            "available": true,
+            "preview_picture": "\/upload\/iblock\/75e\/75e5cb58a4f358216889a2ae8fa00553.png",
+            "price_by_card": 0,
+            "link": "\/catalog\/krepkie_napitki\/viski\/ballantine-s-finest-46020171\/",
+            "props": {
+                "article": 46020171,
+                "russian_name": "\u0411\u0430\u043b\u043b\u0430\u043d\u0442\u0430\u0439\u043d\u0441 \u0424\u0430\u0439\u043d\u0435\u0441\u0442",
+                "old_price_61": 3199,
+                "middle_price_61": 3199.99,
+                "country": "shotlandiya-velikobritaniya",
+                "producer": 471799,
+                "alco": 40,
+                "value": 1,
+                "extraction": 3,
+                "brand": 187586,
+                "whisky_type": {
+                    "137": "\u041a\u0443\u043f\u0430\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439"
+                }
+            },
+            "sale": false,
+            "price": "3199.99"
+        }
+    ],
+    "catalogPriceCode": "cfo",
+    "productsPerServerPage": "18",
+    "productsTotalCount": 704,
+    "disabledValuesIds": [],
+    "catalogSectionMinPrice": 99.99,
+    "catalogSectionMaxPrice": 20199,
+    "PRICES": {
+        "min_prices": 99.99,
+        "max_prices": 20199
+    }
+}

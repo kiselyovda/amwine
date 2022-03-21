@@ -1,3 +1,4 @@
+from email import header
 import time
 import scrapy
 
@@ -8,20 +9,28 @@ class CatalogSpider(scrapy.Spider):
     allowed_domains = ['amwine.ru']
     start_urls = ['https://amwine.ru/catalog/krepkie_napitki/viski/ancnoc-12-yo/']
 
+
     def start_requests(self):
-        for url in self.start_urls:
-            yield scrapy.Request(
-                url,
-                cookies={
+        headers = {
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.810 Yowser/2.5 Safari/537.36'
+            }
+        cookies = {
                     'AMWINE__IS_ADULT': 'Y',
                     'AMWINE__REGION_CODE': 'rostov-na-donu',
                     'AMWINE__REGION_ELEMENT_XML_ID': '61',
                     'AMWINE__REGION_ELEMENT_ID': '182688',
                     'AMWINE__CITY_SALE_LOCATION_ID': '1249',
-                    'AMWINE__CITY_NAME': '%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83	',
-                    }, 
+                    'AMWINE__CITY_NAME': '%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83	'
+                    },
+        for url in self.start_urls:
+            
+            yield scrapy.Request(
+                url,
+                cookies=cookies,
+                headers=headers,
                 callback=self.parse_product
                 )
+
 
     def parse_product(self, response, **kwargs):
         yield {

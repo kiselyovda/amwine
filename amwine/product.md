@@ -1,3 +1,4 @@
+# Парсинг карточки продукта
 timestamp = `round(time.time())`
 
 RPC = `response.css('div.catalog-element-info__article').css('span::text').get().split()[-1]`
